@@ -1,0 +1,28 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "<a href='./LICENSE'>![License](https://img.shields.io/badge/License%3A-MIT-green.svg)</a> <a href=\"https://budget-app-tc.herokuapp.com/\">![Deployed App](https://img.shields.io/badge/Deployed%20App-blue.svg)</a>",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houst29476/budget-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houst29476/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/Houst29476/budget-tracker#readme",
+  "dependencies": {
+    "chart.js": "^3.7.1",
+    "express": "^4.18.0",
+    "mongodb": "^4.5.0",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.16"
+  }
+}
