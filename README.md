@@ -7,21 +7,9 @@
 Budget Tracker is a Progressive Web App (PWA) where you can add and subtract funds to track your total budget. Transactions are added to the list along with the amount added or subtracted, and the total is displayed at the top of the app.
 IndexedDB and the Cache API are used to enable this app to function while offline as a PWA and the app is also able to be installed on your desktop or mobile device as well.
 
-#### PWA App Installed to Desktop:
-
-![PWA Installed App](./assets/images/screenshot-4.jpg)
-
 #### Online App with All Entries:
 
-![Main App Page](./assets/images/screenshot-3.jpg)
-
-#### Offline Entries using IndexedDB:
-
-![IndexedDB](./assets/images/screenshot-1.jpg)
-
-#### Offline Functionality using Cached Assets:
-
-![Cache](./assets/images/screenshot-2.jpg)
+![Main App Page](https://user-images.githubusercontent.com/95327275/166113033-0d7cf91b-7801-4e20-a4cf-3229cc3ffdff.jpg)
 
 ## Table of Contents
 
@@ -61,7 +49,7 @@ If you have any specific questions about this project, please contact me at <bra
 
 ## Links
 
-- **[Deployed App](add link)**
+- **[Deployed App](https://budget-tracker-houst29476.herokuapp.com/)**
 - **[GitHub Repo](https://github.com/houst29476/budget-tracker/)**
 
 ## License
